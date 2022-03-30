@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+<meta name="author" content="Andreas Handel" />
+
+
+<title>SISMID 2021 Course Schedule</title>
+
+<script src="site_libs/header-attrs-2.13/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="media/course_style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">SISMID 2021</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="./Course_Syllabus.html">Syllabus</a>
+</li>
+<li>
+  <a href="./Course_Schedule.html">Schedule</a>
+</li>
+<li>
+  <a href="./Course_Communication.html">Communication</a>
+</li>
+<li>
+  <a href="./Course_Resources.html">Resources</a>
+</li>
+<li>
+  <a href="./Course_Project.html">Project</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://github.com/andreashandel/SISMID2021">
+    <span class="fab fa-github"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">SISMID 2021 Course Schedule</h1>
+<h4 class="author">Andreas Handel</h4>
+<h4 class="date">2022-03-30 09:22:56</h4>
+
+</div>
+
+
+<p>This is the schedule for the course. From here, you can access all instructions and materials to help you prepare.</p>
+<p><strong>This schedule is subject to change, so check regularly for updates. We will also adjust as needed, e.g. if we run over or end early, we just move breaks around. It’s the same Zoom link for all meetings (see Slack for link).</strong></p>
+<div id="notes" class="section level2">
+<h2>Notes</h2>
+<ul>
+<li><p>SISMID was online last year and we recorded our lectures. Instead of repeating the same lectures from last year, we figured you will get more out of the course if you watch (some of) our lectures from last year on your own time in advance, and then in our Zoom meetings we will just be emphasizing some of the highlights of our lectures, followed by discussion and Q&amp;A time. <strong>This only works if you actually watch the lectures. If not, you’ll likely feel lost. You have been warned 😄.</strong></p></li>
+<li><p><strong>Time zones:</strong> Seattle is in the PT zone. Your instructors are in ET (Andreas) and CT (Paul) zones. Some of you are likely in yet other locations and time zones. We hope we can keep things straight. For any times in this course <strong>we will use PT/Seattle time as reference.</strong> We also plan to be clear when posting any time by stating the time zone explicitly. If ever in doubt, i.e. if you see us posting a time without specifying the zone, please tell us to clarify.</p></li>
+<li><p>For details on Slack and Zoom use, see the <strong>Communication</strong> section.</p></li>
+<li><p>Abbreviations used: <a href="https://ahgroup.github.io/DSAIRM/">DSAIRM = Dynamical Systems Approach to Immune Response Modeling - R package</a>. <a href="https://andreashandel.github.io/SMIcourse/index.html">SMI = Simulation Modeling in Immunology - website</a>.</p></li>
+</ul>
+</div>
+<div id="before-course-start" class="section level2">
+<h2>Before course start</h2>
+<ul>
+<li>Familiarize yourself with this website. Read through all of it.</li>
+<li>Read our paper <a href="https://handelgroup.uga.edu/publication/2020-handel-natrevimm/">Simulation Modelling for Immunologists</a>.</li>
+<li>Set up the tools needed for this course, namely R, Rstudio and the DSAIRM package. Instructions on how to do that can be found in the <em><strong>Software Setup</strong></em> module of the <a href="https://andreashandel.github.io/SMIcourse">SMI site</a>.</li>
+<li>Post an Introduction to the <em>introductions-networking</em> Slack channel. See the pinned post in that channel for instructions.</li>
+</ul>
+<hr />
+</div>
+<div id="wednesday-2020-07-14-11.30pt---2.30pt" class="section level2">
+<h2>Wednesday 2020-07-14, 11.30PT - 2.30PT</h2>
+<p><strong>As preparation before we meet, do the following:</strong></p>
+<ul>
+<li><p>Watch the <strong>Introduction to Innate Immunity</strong> and <strong>Introduction to Adaptive Immunity</strong> lecture recordings, which you can <a href="https://andreashandel.github.io/SMIcourse/Introduction_to_Immunology.html">find here</a>.</p></li>
+<li><p>Watch the <strong>Introduction to Modeling</strong> and <strong>Introduction to Simple Models</strong> lecture recordings, which you can <a href="https://andreashandel.github.io/SMIcourse/Introduction_to_Modeling.html">find here</a>. You are welcome to read through the additional content provided in that module, but you don’t have to.</p></li>
+</ul>
+<hr />
+<p>11.30PT (1.30CT/2.30ET) - 12.15PT - Zoom: Welcome and Introduction</p>
+<p><em>break</em></p>
+<p>12.30PT (2.30CT/3.30ET) - 1.30PT - Zoom: Introduction to Immunology - Highlights and Discussion (Paul)</p>
+<p><em>break</em></p>
+<p>1.45PT (3.45CT/4.45ET) - 2.30PT - Zoom: Introduction to Modeling - Highlights and Discussion (Andreas)</p>
+<p>Rest of day - On your own: Explore DSAIRM. Go through SMI materials. Prepare for tomorrow. Communication through Slack.</p>
+<hr />
+</div>
+<div id="thursday-2020-07-15-8pt---2.30pt" class="section level2">
+<h2>Thursday 2020-07-15, 8PT - 2.30PT</h2>
+<p><strong>As preparation before we meet, do the following:</strong></p>
+<ul>
+<li><p>Watch the <strong>Introduction to Influenza</strong> lecture recording, which you can <a href="https://andreashandel.github.io/SMIcourse/Viral_Infections_Immunology.html">find here</a>.</p></li>
+<li><p>Go through the <strong>Using Models for Exploration</strong> unit on SMI, which you can <a href="https://andreashandel.github.io/SMIcourse/Models_for_Exploration.html">find here</a>.</p></li>
+<li><p>Take a look at these apps in DSAIRM: <strong>Basic Bacteria Model</strong> and <strong>Bacteria Model Exploration</strong>. You don’t need to fully work through them, but read the <em>Model</em> sections and play with them briefly so you are a bit familiar with them. We’ll investigate them today during our live DSAIRM exercise sessions.</p></li>
+</ul>
+<p>The SMI site also contains a lecture on HCV in the <em>Viral Infections</em> module, lectures on TB and Malaria in the <em>Complex Pathogens</em> module, and several additional units in the <em>Using Simulation Models</em> module. Feel free to go through any of them and ask any questions about those topics during our discussions (or on Slack).</p>
+<hr />
+<p>8PT (10CT/11ET) - 8.45PT - Zoom: SARS-Cov-2 Virology and Immunology (Paul)</p>
+<p><em>break</em></p>
+<p>9.00PT (11CT/12ET) - 9.30PT - Zoom: Discussing SARS-Cov-2, Influenza and other virus infections and immunology (Paul)</p>
+<p><em>break</em></p>
+<p>9.45PT (11.45CT/12.45ET) - 11.00PT - Zoom: DSAIRM level I exercise (Andreas)</p>
+<p>11PT (1CT/2ET) - 12PT <strong>Lunch Break</strong> - Go through SMI materials or explore DSAIRM on your own. Communication through Slack.</p>
+<p>12PT (2CT/3ET) - 12.45PT – Zoom: Infection and Immunology of Helminths (Paul)</p>
+<p><em>break</em></p>
+<p>1.00PT (3CT/4ET) - 1.20PT – Zoom: Discussing Helminths and other complex pathogens (Paul)</p>
+<p><em>break</em></p>
+<p>1.30PT (3.30CT/4.30ET) - 2.30PT - Zoom: DSAIRM level II exercise, part 1 (Andreas)</p>
+<p>Rest of day - On your own: Explore DSAIRM. Go through SMI materials. Prepare for tomorrow. Communication through Slack.</p>
+<hr />
+</div>
+<div id="friday-2020-07-16-8pt---2.30pt" class="section level2">
+<h2>Friday 2020-07-16, 8PT - 2.30PT</h2>
+<p><strong>As preparation before we meet, do the following:</strong></p>
+<ul>
+<li><p>Go through the <strong>Parameter Uncertainty</strong> unit on SMI, which you can <a href="https://andreashandel.github.io/SMIcourse/Parameter_Uncertainty.html">find here</a>.</p></li>
+<li><p>Take a look at these apps in DSAIRM: <strong>Uncertainty and Sensitivity Analysis</strong>. You don’t need to fully work through them, but read the <em>Model</em> section and play with them briefly so you are a bit familiar with them. We’ll investigate them today during our live DSAIRM exercise sessions.</p></li>
+</ul>
+<hr />
+<p>8PT (10CT/11ET) - 9PT - Zoom: DSAIRM level II exercise, part 2 (Andreas)</p>
+<p><em>break</em></p>
+<p>9.15PT (11.15CT/12.15ET) - 10PT - Zoom: Further immunology or modeling topics based on requests (Paul/Andreas)</p>
+<p><em>break</em></p>
+<p>10.15PT (12.15CT/1.15ET) - 11PT - Zoom: DSAIRM level III exercise, part 1 (Andreas)</p>
+<p>11PT (1CT/2ET) - 12PT <strong>Lunch Break</strong> - Go through SMI materials or explore DSAIRM on your own. Communication through Slack.</p>
+<p>12PT (2CT/3ET) - 1.30PT – Zoom: DSAIRM level III exercise, part 2 (Andreas)</p>
+<p><em>break</em></p>
+<p>1.45PT (3.45CT/4.45ET) - 2.30PT - Zoom: Final Q&amp;A, course wrap-up (Paul/Andreas)</p>
+<hr />
+</div>
+<div id="any-time" class="section level2">
+<h2>Any time</h2>
+<p>Go through any additional content on the <a href="https://andreashandel.github.io/SMIcourse/">SMI website</a> that you are interested in. Explore the <a href="https://ahgroup.github.io/DSAIRM/">DSAIRM models</a>. Ask us questions about any of those topics on Slack.</p>
+<hr />
+</div>
+<div id="after-course-end" class="section level2">
+<h2>After course end</h2>
+<ul>
+<li>This course website will remain online. It will not be further updated.</li>
+<li>The <a href="https://andreashandel.github.io/SMIcourse">SMI website</a> is continuously online and will receive future updates as we produce more content.</li>
+<li>DSAIRM and modelbuilder packages will continue to be available.</li>
+<li>We will keep the Slack workspace open for at least several more weeks (but might be slower to respond). Feel free to keep using it. I’ll post a note to the Slack workspace before I shut it down. If you want to continue communications with us or fellow classmates after that, we suggest you switch to other means (e.g., email).</li>
+</ul>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,85 @@
+---
+title: "SISMID 2022"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+```{r, include = FALSE}
+#just so I can use emoticons
+#devtools::install_github("hadley/emo")
+library(emoji)
+```
+
+
+
+<!-- Some trickery to get the logo to show -->
+<script>
+   $(document).ready(function() {
+     $head = $('#header');
+     $head.prepend('<img src=\"media/logo.png\" style=\"float: right; border: none; width: 150px;\"/>')
+   });
+</script>
+
+**This is the beginning of the SISMID 2022 website. If you see this message, the content has not been fully updated from last year.**
+
+
+Last update/recompile: `r Sys.time()`
+
+Welcome to the website for the course/module called [Infectious Diseases, Immunology and Within-Host Models](https://si.biostat.washington.edu/suminst/sismid2021/modules/MD2110), which is part of the [2022 Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)](https://si.biostat.washington.edu/suminst/sismid). 
+
+The course is taught by [Andreas Handel](https://www.andreashandel.com/) and [Paul Thomas](https://www.stjude.org/directory/t/paul-thomas.html). You can reach us all on Slack (see the **Communication** page). 
+
+
+<!-- # Important! -->
+
+<!-- **We are making some last-minute updates to the DSAIRM package. To make sure you have the latest, install it from GitHub the day before the workshop starts.** -->
+<!-- (You can install it any time prior, or install from CRAN, just make sure if you do that to re-install the day before the workshop by typing these commands into the `R` console): -->
+
+<!-- ``` -->
+<!-- install.packages('remotes') #if you don't have the remotes package installed yet -->
+<!-- library('remotes') -->
+<!-- install_github('ahgroup/DSAIRM') -->
+<!-- ``` -->
+
+<!-- Then load the package and open the menu with these commands: -->
+<!-- ``` -->
+<!-- library('DSAIRM') -->
+<!-- dsairmmenu() -->
+<!-- ``` -->
+<!-- For more details, see [the _Software Setup_ module of the SMI site](https://andreashandel.github.io/SMIcourse). -->
+
+# Website content
+
+The __Syllabus__ provides a brief overview with a few logistic details.
+
+The __Schedule__ lists the topics, with links to materials. Most of the materials are on a separate site called [Simulation Modeling in Immunology](https://andreashandel.github.io/SMIcourse/) which we use as the main, permanent repository for teaching materials related to this course (and other workshops). 
+
+The __Communication__ section provides information on how course communications are planned to happen.
+
+The __Resources__ section contains a listing of the main sources and materials we'll be using in this course, as well as links to further resources.
+
+The __Project__ section has information and instructions for a - completely optional - course project you can do if you want. 
+
+
+# Getting started
+
+Start by briefly going through all the sections on this website. The go through and do everything listed in the _Before course start_ section of the __Schedule__. 
+
+# Notes
+
+We are a _Module_ of SISMID. However, for our purposes, we refer to our module as a _course_ or _class_, and use _module_ for individual segments, which are further divided into _units_. We hope this is not too confusing. 
+
+By default, all links open in the current tab. You'll likely want external ones to open in a separate tab or window. To do so, you can (with most browsers) hold the `Ctrl` button when clicking, or do a right-click and select `open in new tab/window`.
+
+
+# Acknowledgements
+
+This course was developed and is maintained by [Andreas Handel](https://www.andreashandel.com/) and [Paul Thomas](https://www.stjude.org/directory/t/paul-thomas.html).
+
+# License
+
+The materials are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-nc-sa/4.0/) Linked and embedded materials are governed by their own licenses. We assume that all external materials used or embedded here are covered under the educational fair use policy. If this is not the case and any material displayed here violates copyright, please let me know and we will remove it. 
+
+
+  
