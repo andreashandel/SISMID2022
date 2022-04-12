@@ -1,4 +1,4 @@
-name: "SISMID 2021"
+name: "SISMID 2022"
 output_dir: "docs"
 exclude: ["auxiliary", "*.csv"]
 output:

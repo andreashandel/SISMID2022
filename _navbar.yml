@@ -2,7 +2,7 @@ name: "SISMID2021"
 title: "SISMID 2021"
 logo:
     image: media/logo.png
-    href: https://andreashandel.github.io/SISMID2021/
+    href: https://andreashandel.github.io/SISMID2022/
 type: inverse
 left:
   - text: "Syllabus"
@@ -17,4 +17,4 @@ left:
     href: ./Course_Project.html
 right:
   - icon: fab fa-github
-    href: https://github.com/andreashandel/SISMID2021
+    href: https://github.com/andreashandel/SISMID2022

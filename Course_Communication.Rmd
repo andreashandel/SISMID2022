@@ -26,7 +26,7 @@ library(emoji)
 
 The main mode of communication will be through Slack. You should get an email invite to the Slack workspace for this class. It will be sent to the email you used to sign up for SISMID.
 
-**Note that SISMID set up a Slack workspace for the whole summer institute, with a channel for each Module. We decided that it is better to have a separate workspace for this module, with our own channels. Thus, you will get invitations to 2 workspaces, the general SISMID one and the one for this module. Join both. If you have not gotten an email invite to our Slack workspace (which is called 2021-SISMID) the day before class starts, please let us know, either through the general SISMID Slack channel or by email, so we can make sure everyone is part of the workspace for our course.**
+**Note that SISMID set up a Slack workspace for the whole summer institute, with a channel for each Module. We decided that it is better to have a separate workspace for this module, with our own channels. Thus, you will get invitations to 2 workspaces, the general SISMID one and the one for this module. Join both. If you have not gotten an email invite to our Slack workspace (which is called 2022-SISMID) the day before class starts, please let us know, either through the general SISMID Slack channel or by email, so we can make sure everyone is part of the workspace for our course.**
 
 If you are unfamiliar with Slack, it is essentially a chat/discussion tool. Within the main workspace for this class, you will find different channels. That's the Slack name for a discussion forum. The names and descriptions of the different channels should be self-explanatory. You can also use Slack to send others direct messages.  
 

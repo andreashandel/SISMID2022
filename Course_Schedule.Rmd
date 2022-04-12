@@ -32,7 +32,7 @@ This is the schedule for the course. From here, you can access all instructions 
 ## Before course start
 
 * Familiarize yourself with this website. Read through all of it.
-* Read our paper [Simulation Modelling for Immunologists](https://handelgroup.uga.edu/publication/2020-handel-natrevimm/).
+* Read our paper [Simulation Modelling for Immunologists](./media/2020-handel-natrevimm.pdf).
 * Set up the tools needed for this course, namely R, Rstudio and the DSAIRM package. Instructions on how to do that can be found in the _**Software Setup**_ module of the [SMI site](https://andreashandel.github.io/SMIcourse).
 * Post an Introduction to the _introductions-networking_ Slack channel. See the pinned post in that channel for instructions.
 

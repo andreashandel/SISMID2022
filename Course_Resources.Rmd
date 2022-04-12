@@ -24,9 +24,9 @@ Note that some of the listed resources are dynamic and ever changing. That means
 
 # Papers
 
-* [Simulation Modelling for Immunologists](https://handelgroup.uga.edu/publication/2020-handel-natrevimm/). An introduction we wrote on the topic. You will see a lot of overlap between that paper and the course materials. Read the paper before the course, then maybe re-read a few more times during the course.
+* [Simulation Modelling for Immunologists](./media/2020-handel-natrevimm.pdf). An introduction we wrote on the topic. You will see a lot of overlap between that paper and the course materials. Read the paper before the course, then maybe re-read a few more times during the course.
 
-* We'll be referencing several primary research papers in the course. Some of them might be behind a paywall. You can find a link to a zip file that contains most (all?) references in the course Slack workspace. Let us know if you have trouble downloading that zip file or if any references are missing.
+* We'll be referencing several primary research papers in the course. Some of them might be behind a pay-wall. You can find a link to a zip file that contains most (all?) references in the course Slack workspace. Let us know if you have trouble downloading that zip file or if any references are missing.
 
 
 # Software
@@ -48,7 +48,7 @@ Note that some of the listed resources are dynamic and ever changing. That means
 
 # Further Resources
 
-* There are many further resources available. We list some of them in the [Resources section of the SMI course website](https://andreashandel.github.io/SMIcourse/Resources.html).
+* There are many further resources available. We list some of them in the [Resources section of the SMI website](https://andreashandel.github.io/SMIcourse/Resources.html).
 
 * For a list of terms that are commonly used in Immunology and Modeling see [this Glossary on the SMI website](https://andreashandel.github.io/SMIcourse/Glossary.html).
 
