@@ -26,9 +26,11 @@ library(emoji)
 
 Last update/recompile: `r Sys.time()`
 
-Welcome to the website for the course/module called [Infectious Diseases, Immunology and Within-Host Models](https://si.biostat.washington.edu/suminst/sismid2021/modules/MD2110), which is part of the [2022 Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)](https://si.biostat.washington.edu/suminst/sismid). 
+Welcome to the website for the course/module called [Infectious Diseases, Immunology and Within-Host Models](https://si.biostat.washington.edu/about/sismid/MD2212), which is part of the [2022 Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)](https://si.biostat.washington.edu/about/sismid). 
 
-The course is taught by [Andreas Handel](https://www.andreashandel.com/) and [Paul Thomas](https://www.stjude.org/directory/t/paul-thomas.html). You can reach us all on Slack (see the **Communication** page). 
+The course is taught by [Andreas Handel](https://www.andreashandel.com/) and [Paul Thomas](https://www.stjude.org/research/labs/thomas-lab.html). 
+The Teaching Assistant (TA) for the course is [Cody Dailey](https://daileyco.github.io/).
+You can reach us all on Slack (see the **Communication** page). 
 
 
 <!-- # Important! -->
@@ -57,14 +59,14 @@ The __Schedule__ lists the topics, with links to materials. Most of the material
 
 The __Communication__ section provides information on how course communications are planned to happen.
 
-The __Resources__ section contains a listing of the main sources and materials we'll be using in this course, as well as links to further resources.
+The __Resources__ section contains a listing of the main sources and materials we will be using in this course, as well as links to further resources.
 
 The __Project__ section has information and instructions for a - completely optional - course project you can do if you want. 
 
 
 # Getting started
 
-Start by briefly going through all the sections on this website. The go through and do everything listed in the _Before course start_ section of the __Schedule__. 
+Start by briefly skimming through all pages on this website. Then go through and do everything listed in the __Before course start__ section of the __Schedule__ page. 
 
 # Notes
 
