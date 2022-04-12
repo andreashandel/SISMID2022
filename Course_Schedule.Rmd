@@ -110,7 +110,7 @@ Rest of day - On your own: Explore DSAIRM. Go through SMI materials. Prepare for
 
 **As preparation before we meet, do the following:**
 
-* Go through the __Parameter Uncertainty__ unit on SMI, which you can [find here](https://andreashandel.github.io/SMIcourse/Parameter_Uncertainty.html).
+* Go through the __Parameter Uncertainty__ unit on SMI, which you can [find here](https://andreashandel.github.io/SMIcourse/Parameter_Uncertainty_and_Sensitivity.html).
 
 * Take a look at these apps in DSAIRM: __Uncertainty and Sensitivity Analysis__. You don't need to fully work through them, but read the _Model_ section and play with them briefly so you are a bit familiar with them. We'll investigate them today during our live DSAIRM exercise sessions.
 
