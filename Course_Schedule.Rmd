@@ -45,20 +45,22 @@ This is the schedule for the course. From here, you can access all instructions 
 
 * Watch the __Introduction to Innate Immunity__ and __Introduction to Adaptive Immunity__ lecture recordings, which you can [find here](https://andreashandel.github.io/SMIcourse/Introduction_to_Immunology.html).
 
-* Watch the __Introduction to Modeling__ and __Introduction to Simple Models__ lecture recordings, which you can [find here](https://andreashandel.github.io/SMIcourse/Introduction_to_Modeling.html). You are welcome to read through the additional content provided in that module, but you don't have to.
+* Watch the __Introduction to Modeling__ and __Introduction to Simple Models__ lecture recordings, which you can [find here](https://andreashandel.github.io/SMIcourse/Introduction_to_Modeling.html). 
+
+You are welcome to read start going through any other content on the SMI site prior to the start of the module.
 
 ***
 
 
-11.30PT (1.30CT/2.30ET) - 12.15PT - Zoom: Welcome and Introduction 
+11.30PT (1.30CT/2.30ET) - 12.15PT - Zoom: Welcome and introduction 
 
 _break_
 
-12.30PT (2.30CT/3.30ET) - 1.30PT  - Zoom: Introduction to Immunology - Highlights and Discussion (Paul)
+12.30PT (2.30CT/3.30ET) - 1.30PT  - Zoom: Introduction to immunology - highlights and discussion (Paul)
 
 _break_
 
-1.45PT (3.45CT/4.45ET) - 2.30PT  - Zoom: Introduction to Modeling - Highlights and Discussion (Andreas)
+1.45PT (3.45CT/4.45ET) - 2.30PT  - Zoom: Introduction to modeling - highlights and discussion (Andreas)
 
 
 Rest of day - On your own: Explore DSAIRM. Go through SMI materials. Prepare for tomorrow. Communication through Slack.  
@@ -69,7 +71,7 @@ Rest of day - On your own: Explore DSAIRM. Go through SMI materials. Prepare for
 
 **As preparation before we meet, do the following:**
 
-* Watch the __Introduction to Influenza__ lecture recording, which you can [find here](https://andreashandel.github.io/SMIcourse/Viral_Infections_Immunology.html). 
+* Watch the __Influenza and SARS-CoV-2__ lecture recording, which you can [find here](https://andreashandel.github.io/SMIcourse/Viral_Infections_Immunology.html). 
 
 * Go through the __Using Models for Exploration__ unit on SMI, which you can [find here](https://andreashandel.github.io/SMIcourse/Models_for_Exploration.html).
 
@@ -80,27 +82,27 @@ The SMI site also contains a lecture on HCV in the _Viral Infections_ module, le
 ***
 
 
-8PT (10CT/11ET) - 8.45PT - Zoom: SARS-Cov-2 Virology and Immunology (Paul)
+8PT (10CT/11ET) - 8.45PT - Zoom: Virology and immunology of acute viral infections (SARS-CoV-2, influenza, RSV)  (Paul)
 
 _break_
 
-9.00PT (11CT/12ET) - 9.30PT - Zoom: Discussing SARS-Cov-2, Influenza and other virus infections and immunology (Paul)
+9.00PT (11CT/12ET) - 9.30PT - Zoom: Discussion and Q&A of acute viral infections (Paul)
 
 _break_
 
-9.45PT (11.45CT/12.45ET) - 11.00PT - Zoom: DSAIRM level I exercise (Andreas) 
+9.45PT (11.45CT/12.45ET) - 11.00PT - Zoom: Modeling acute viral infections with DSAIRM, level 1 (Andreas) 
 
 11PT (1CT/2ET) - 12PT __Lunch Break__ - Go through SMI materials or explore DSAIRM on your own. Communication through Slack.  
 
-12PT (2CT/3ET) - 12.45PT – Zoom: Infection and Immunology of Helminths (Paul)
+12PT (2CT/3ET) - 12.45PT – Zoom: Virology and immunology of chronic viral infections (HIV, Herpes, HCV)  (Paul)
 
 _break_
 
-1.00PT (3CT/4ET) - 1.20PT – Zoom: Discussing Helminths and other complex pathogens (Paul)
+1.00PT (3CT/4ET) - 1.20PT – Zoom: Discussion and Q&A of chronic viral infections (Paul)
 
 _break_
 
-1.30PT (3.30CT/4.30ET) - 2.30PT - Zoom: DSAIRM level II exercise, part 1 (Andreas)
+1.30PT (3.30CT/4.30ET) - 2.30PT - Zoom: Modeling chronic viral infections with DSAIRM, level 2 (Andreas)
 
 Rest of day - On your own: Explore DSAIRM. Go through SMI materials. Prepare for tomorrow. Communication through Slack.  
 
@@ -117,24 +119,25 @@ Rest of day - On your own: Explore DSAIRM. Go through SMI materials. Prepare for
 
 ***
 
-8PT (10CT/11ET) - 9PT - Zoom: DSAIRM level II exercise, part 2 (Andreas)  
+8PT (10CT/11ET) - 8.45PT - Zoom: Virology and immunology of bacterial infections (Tuberculosis, Streptococcus, Staphylococcus)  (Paul)
 
 _break_
 
-9.15PT (11.15CT/12.15ET) - 10PT - Zoom: Further immunology or modeling topics based on requests (Paul/Andreas)
+9.00PT (11CT/12ET) - 9.30PT - Zoom: Discussion and Q&A of bacterial infections (Paul)
 
 _break_
 
-10.15PT (12.15CT/1.15ET) - 11PT - Zoom: DSAIRM level III exercise, part 1 (Andreas)
+9.45PT (11.45CT/12.45ET) - 11.00PT - Zoom: Further immunology or modeling topics based on requests (Paul/Andreas) 
 
 11PT (1CT/2ET) - 12PT __Lunch Break__ - Go through SMI materials or explore DSAIRM on your own. Communication through Slack.  
 
-12PT (2CT/3ET) - 1.30PT  – Zoom: DSAIRM level III exercise, part 2 (Andreas)
+_break_
+
+12PT (2CT/3ET) - 1.45PT  – Zoom: Modeling bacterial infections with DSAIRM, level 3 (Andreas)
 
 _break_
 
-1.45PT (3.45CT/4.45ET) - 2.30PT  - Zoom: Final Q&A, course wrap-up (Paul/Andreas) 
-
+2PT (3.45CT/4.45ET) - 2.30PT  - Zoom: Final Q&A, course wrap-up (Paul/Andreas) 
 
 
 ***
