@@ -32,9 +32,11 @@ This is the schedule for the course. From here, you can access all instructions 
 ## Before course start
 
 * Familiarize yourself with this website. Read through all of it.
-* Read our paper [Simulation Modelling for Immunologists](./media/2020-handel-natrevimm.pdf).
-* Set up the tools needed for this course, namely R, Rstudio and the DSAIRM package. Instructions on how to do that can be found in the _**Software Setup**_ module of the [SMI site](https://andreashandel.github.io/SMIcourse).
 * Post an Introduction to the _introductions-networking_ Slack channel. See the pinned post in that channel for instructions.
+* Browse through our paper [Simulation Modelling for Immunologists](./media/2020-handel-natrevimm.pdf).
+* Set up the tools needed for this course, namely R, Rstudio and the DSAIRM package. Instructions on how to do that can be found in the _**Software Setup**_ module of the [SMI site](https://andreashandel.github.io/SMIcourse).
+* If you can, take a look at these apps in DSAIRM: __Basic Bacteria Model__ and __Basic Virus Model__. Play around with them and go through (some of) the tasks to get familiar with DSAIRM.
+
 
 ***
 
@@ -71,16 +73,13 @@ Rest of day - On your own: Explore DSAIRM. Go through SMI materials. Prepare for
 
 **As preparation before we meet, do the following:**
 
-* Watch the __Influenza and SARS-CoV-2__ lecture recording, which you can [find here](https://andreashandel.github.io/SMIcourse/Viral_Infections_Immunology.html). 
+* Watch any of the lecture recordings on viral infections and immunology from the last years on the [SMI site](https://andreashandel.github.io/SMIcourse/). We will not repeat most of those topics this year, but we are happy to discuss any of those pathogens and topics in the Q&A, so if any of those viruses interest you, watch the lecture and come with questions for discussion, either during the Q&A or on Slack.  
 
-* Go through the __Using Models for Exploration__ unit on SMI, which you can [find here](https://andreashandel.github.io/SMIcourse/Models_for_Exploration.html).
+* If you haven't already, take a look at the __Basic Bacteria Model__ and __Basic Virus Model__ apps in DSAIRM. Read the information describing the models and play around with them. If you want to continue, take a look at the __Acute Virus and IR Model__ and
+__Chronic Virus and IR Model__ apps, which we'll be using today.
 
-* Take a look at these apps in DSAIRM: __Basic Bacteria Model__ and __Bacteria Model Exploration__. You don't need to fully work through them, but read the _Model_ sections and play with them briefly so you are a bit familiar with them. We'll investigate them today during our live DSAIRM exercise sessions.
-
-The SMI site also contains a lecture on HCV in the _Viral Infections_ module, lectures on TB and Malaria in the _Complex Pathogens_ module, and several additional units in the _Using Simulation Models_ module. Feel free to go through any of them and ask any questions about those topics during our discussions (or on Slack).
 
 ***
-
 
 8PT (10CT/11ET) - 8.45PT - Zoom: Virology and immunology of acute viral infections (SARS-CoV-2, influenza, RSV)  (Paul)
 
@@ -114,12 +113,11 @@ Rest of day - On your own: Explore DSAIRM. Go through SMI materials. Prepare for
 
 * Go through the __Parameter Uncertainty__ unit on SMI, which you can [find here](https://andreashandel.github.io/SMIcourse/Parameter_Uncertainty_and_Sensitivity.html).
 
-* Take a look at these apps in DSAIRM: __Uncertainty and Sensitivity Analysis__. You don't need to fully work through them, but read the _Model_ section and play with them briefly so you are a bit familiar with them. We'll investigate them today during our live DSAIRM exercise sessions.
-
+* Take a look at the __Extended Bacteria Model__ apps in DSAIRM, which we'll be exploring today. If you can, also take a brief look at the __Model Variant Exploration__ app, we'll do something similar with the bacteria model today. 
 
 ***
 
-8PT (10CT/11ET) - 8.45PT - Zoom: Virology and immunology of bacterial infections (Tuberculosis, Streptococcus, Staphylococcus)  (Paul)
+8PT (10CT/11ET) - 8.45PT - Zoom: Bacterial Infections and immunology (Tuberculosis, Streptococcus, Staphylococcus)  (Paul)
 
 _break_
 
@@ -127,13 +125,14 @@ _break_
 
 _break_
 
-9.45PT (11.45CT/12.45ET) - 11.00PT - Zoom: Further immunology or modeling topics based on requests (Paul/Andreas) 
+9.45PT (11.45CT/12.45ET) - 11.00PT - Zoom: Modeling bacterial infections with DSAIRM, level 3 (Andreas)
+
 
 11PT (1CT/2ET) - 12PT __Lunch Break__ - Go through SMI materials or explore DSAIRM on your own. Communication through Slack.  
 
 _break_
 
-12PT (2CT/3ET) - 1.45PT  – Zoom: Modeling bacterial infections with DSAIRM, level 3 (Andreas)
+12PT (2CT/3ET) - 1.45PT  – Zoom: Further immunology or modeling topics based on requests (Paul/Andreas) 
 
 _break_
 
