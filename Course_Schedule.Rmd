@@ -41,7 +41,7 @@ This is the schedule for the course. From here, you can access all instructions 
 ***
 
 
-## Wednesday 2020-07-20, 11.30PT - 2.30PT
+## Wednesday 2022-07-20, 11.30PT - 2.30PT
 
 **As preparation before we meet, do the following:**
 
@@ -69,7 +69,7 @@ Rest of day - On your own: Explore DSAIRM. Go through SMI materials. Prepare for
 
 ***
 
-## Thursday 2020-07-21, 8PT - 2.30PT
+## Thursday 2022-07-21, 8PT - 2.30PT
 
 **As preparation before we meet, do the following:**
 
@@ -107,7 +107,7 @@ Rest of day - On your own: Explore DSAIRM. Go through SMI materials. Prepare for
 
 ***
 
-## Friday 2020-07-22, 8PT - 2.30PT
+## Friday 2022-07-22, 8PT - 2.30PT
 
 **As preparation before we meet, do the following:**
 
@@ -136,7 +136,7 @@ _break_
 
 _break_
 
-2PT (3.45CT/4.45ET) - 2.30PT  - Zoom: Final Q&A, course wrap-up (Paul/Andreas) 
+2PT (4CT/5ET) - 2.30PT  - Zoom: Final Q&A, course wrap-up (Paul/Andreas) 
 
 
 ***
