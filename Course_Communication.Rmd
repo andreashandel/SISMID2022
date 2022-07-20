@@ -36,6 +36,7 @@ The other channels are for discussion of specific topics. The channel names shou
 
 In general, it's better if you use Slack instead of Zoom chat or email to ask questions. If you use email, only you see the answer. For Zoom, once the session ends, the chat is gone. In Slack, others can see previous questions and answers. That said, there might be instances where the question only relates to you. In such cases, feel free to use email or send a direct message on Slack. 
 
+While we try to monitor all all Slack channels in our workspace, things can get busy. If you asked a question and we didn't respond within a reasonable amount of time (a few hours during our workshop), feel free to ping us directly either by sending a direct message or by using the @ symbol in your slack message (e.g., @mikesmith will alert the user Mike Smith that he was mentioned in a message).
 
 # Synchronous communication
 

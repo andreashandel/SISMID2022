@@ -17,14 +17,16 @@ This is the schedule for the course. From here, you can access all instructions 
 
 ## Notes
 
-* SISMID was online in 2020-2021 and we recorded our lectures. Instead of repeating the same lectures we gave previously, we figured you will get more out of the course if you watch (some of) our lectures from last year on your own time in advance, and then in our Zoom meetings we will just be emphasizing some of the highlights of our lectures, followed by discussion and Q&A time. **This only works if you actually watch the lectures. If not, you'll likely feel lost. You have been warned `r emoji::emoji('smile')`.**
+* SISMID was online in 2020-2021 and we recorded our lectures. Instead of repeating the same lectures we gave previously, we figured you will get more out of the course if you watch (some of) our previously recorded lectures on your own time prior to our live sessions, and then in our Zoom meetings we will just be emphasizing some of the highlights of our past lectures and/or discuss new topics. We allocated ample time for discussion and Q&A. In those sessions, you can ask us about anything related to the course topics, independent of it being covered by us in one of the live lectures or not. **This whole setup only works well if you actually watch the previously recorded lectures and/or read through the other materials. If not, you'll likely feel lost. You have been warned `r emoji::emoji('smile')`.**
 
 
 * **Time zones:** Seattle is in the PT zone. Your instructors are in ET (Andreas) and CT (Paul) zones. Some of you are likely in yet other locations and time zones. We hope we can keep things straight. For any times in this course **we will use PT/Seattle time as reference.** We also plan to be clear when posting any time by stating the time zone explicitly. If ever in doubt, i.e. if you see us posting a time without specifying the zone, please tell us to clarify. 
 
 * For details on Slack and Zoom use, see the __Communication__ section.
 
-* Abbreviations used: [DSAIRM = Dynamical Systems Approach to Immune Response Modeling - R package](https://ahgroup.github.io/DSAIRM/). [SMI = Simulation Modeling in Immunology - website](https://andreashandel.github.io/SMIcourse/index.html). 
+* Abbreviations used: 
+  - [DSAIRM = Dynamical Systems Approach to Immune Response Modeling - R package](https://ahgroup.github.io/DSAIRM/). 
+  - [SMI = Simulation Modeling in Immunology - website](https://andreashandel.github.io/SMIcourse/index.html). 
 
 
 
@@ -38,7 +40,7 @@ This is the schedule for the course. From here, you can access all instructions 
   - [Here are instructions for setting up R and RStudio.](https://andreashandel.github.io/SMIcourse/R_and_RStudio.html)
   - [This explains how to install and use the DSAIRM package.](https://andreashandel.github.io/SMIcourse/Introduction_to_DSAIRM.html)
   - [This is the DSAIRM website with more details.](https://ahgroup.github.io/DSAIRM/)
-* __Make sure you install the latest version of DSAIRM, which is 0.9.5. You'll see which version you have on the main menu screen.__
+  - __Make sure you install the latest version of DSAIRM, which is 0.9.5. You'll see which version you have on the main menu screen.__
 * If you can, take a look at these apps in DSAIRM: __Basic Bacteria Model__ and __Basic Virus Model__. Play around with them and go through (some of) the tasks to get familiar with DSAIRM.
 
 
@@ -53,7 +55,7 @@ This is the schedule for the course. From here, you can access all instructions 
 
 * Watch the __Introduction to Modeling__ and __Introduction to Simple Models__ lecture recordings, which you can [find here](https://andreashandel.github.io/SMIcourse/Introduction_to_Modeling.html). 
 
-You are welcome to read start going through any other content on the SMI site prior to the start of the module.
+You are welcome - and even encouraged - to read through other content on the SMI site prior to the start of the module.
 
 ***
 
@@ -115,9 +117,9 @@ Rest of day - On your own: Explore DSAIRM. Go through SMI materials. Prepare for
 
 **As preparation before we meet, do the following:**
 
-* Watch any of the lecture recordings on bacterial infections and immunology from the last years on the [SMI site](https://andreashandel.github.io/SMIcourse/). We will not repeat most of those topics this year, but we are happy to discuss any of those pathogens and topics in the Q&A or on Slack.  
+* Watch any of the lecture recordings on bacterial or parasitic infections and immunology from the last years on the [SMI site](https://andreashandel.github.io/SMIcourse/). We will not repeat most of those topics this year, but we are happy to discuss any of those pathogens and topics in the Q&A or on Slack.  
 
-* Take a look at the __Extended Bacteria Model__ apps in DSAIRM, which we'll be exploring today. 
+* Take a look at the __Extended Bacteria Model__ app in DSAIRM, which we'll be exploring today. 
 
 ***
 
@@ -156,6 +158,6 @@ Go through any additional content on the [SMI website](https://andreashandel.git
 
 * This course website will remain online. It will not be further updated.
 * The [SMI website](https://andreashandel.github.io/SMIcourse) is continuously online and will receive future updates as we produce more content.
-* DSAIRM and modelbuilder packages will continue to be available.
-* We will keep the Slack workspace open for at least several more weeks (but might be slower to respond). Feel free to keep using it. I'll post a note to the Slack workspace before I shut it down. If you want to continue communications with us or fellow classmates after that, we suggest you switch to other means (e.g., email).
+* The DSAIRM package will continue to be available from CRAN or GitHub, and will continue to be updated.
+* We will keep the Slack workspace open for at least several more weeks (but we might be slower to respond). Feel free to keep using it. I'll post a note to the Slack workspace before I shut it down. If you want to continue communications with us or fellow classmates after that, we suggest you switch to other means (e.g., email).
 
