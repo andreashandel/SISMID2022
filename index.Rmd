@@ -23,6 +23,9 @@ library(emoji)
 
 Last update/recompile: `r Sys.time()`
 
+**This site will not be further updated. It will remain here for reference. We are only keeping the logistic parts here. The content has been moved (and continues to be updated) at our permanent, stand-alone site/course [Simulation Modeling in Immunology](https://andreashandel.github.io/SMIcourse/).**
+
+
 Welcome to the website for the course/module called [Infectious Diseases, Immunology and Within-Host Models](https://si.biostat.washington.edu/about/sismid/MD2212), which is part of the [2022 Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)](https://si.biostat.washington.edu/about/sismid). 
 
 The course is taught by [Andreas Handel](https://www.andreashandel.com/) and [Paul Thomas](https://www.stjude.org/research/labs/thomas-lab.html). 

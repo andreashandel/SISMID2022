@@ -1,4 +1,6 @@
-# Infectious Diseases, Immunology and Within-Host Models
+# 2022 SISMID - Infectious Diseases, Immunology and Within-Host Models
 
 Github repository for the 2022 SISMID module _Infectious Diseases, Immunology and Within-Host Models_ website.
-The website [can be found here](https://andreashandel.github.io/SISMID2022/).
+
+This is for archival purposes only. All useful materials from this workshop can be found [on this permanent, stand-alone site](https://andreashandel.github.io/SMIcourse/).
+
